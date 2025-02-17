@@ -3,13 +3,17 @@ package co.edu.uniquindio.poo;
 public class VehiculoTransporte extends Vehiculo {
     // atributos de la clase
     private int maximoPasajeros;
+    private int pasajerosTransportados;
 
+    public VehiculoTransporte(){}
+    
     // super constructor que contiene los atributos de la clase padre @Vehiculo
-    // y los atributos propios de la clase hija, en este caso, vehiculoCarga
+    // y los atributos propios de la clase hija, en este caso, vehiculoTransporte
     public VehiculoTransporte(String placa, String modelo, String marca, String color, String numeroChasis,
-            int maximoPasajeros) {
+            int maximoPasajeros, int pasajerosTransportados) {
         super(placa, modelo, marca, color, numeroChasis);
         this.maximoPasajeros = maximoPasajeros;
+        this.pasajerosTransportados = pasajerosTransportados;
     }
 
     // getters and setters
@@ -21,13 +25,16 @@ public class VehiculoTransporte extends Vehiculo {
         this.maximoPasajeros = maximoPasajeros;
     }
 
-    // metodo abstracto, heredado de Vehiculo
-    @Override
-    public void mostrarDetalles() {
-        System.out.println("Vehiculo de trasnporte");
+    public int getPasajerosTransportados() {
+        return pasajerosTransportados;
     }
 
-    // metodo para un representación más significativa del objeto, en forma de cadena
+    public void setPasajerosTransportados(int pasajerosTransportados) {
+        this.pasajerosTransportados = pasajerosTransportados;
+    }
+
+    // metodo para un representación más significativa del objeto, en forma de
+    // cadena
     @Override
     public String toString() {
         return "VehiculoTransporte [maximoPasajeros=" + maximoPasajeros + "]";

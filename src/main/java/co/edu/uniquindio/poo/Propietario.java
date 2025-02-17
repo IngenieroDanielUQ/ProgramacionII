@@ -3,6 +3,9 @@ public class Propietario {
     //Atributos de la clase propietario
     private String nombre, cedula, email, edad, celular;
 
+    //constructor vacio
+    public Propietario(){}
+
     //Constructor
     public Propietario(String nombre, String cedula, String email, String edad, String celular) {
         this.nombre = nombre;
@@ -55,10 +58,11 @@ public class Propietario {
 
     @Override
     public String toString() {
-        return "Propietario [nombre=" + nombre + 
-        ", cedula=" + cedula + 
-        ", email=" + email + 
-        ", edad=" + edad + 
-        ", celular=" + celular + "]";
+        return "" + nombre + 
+        " " + cedula + 
+        " " + email + 
+        " " + edad + 
+        " " + celular + 
+        " ";
     }
 }

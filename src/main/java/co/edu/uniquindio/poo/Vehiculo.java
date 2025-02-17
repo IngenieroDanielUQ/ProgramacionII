@@ -1,8 +1,15 @@
 package co.edu.uniquindio.poo;
 
-public abstract class Vehiculo {
+public class Vehiculo {
     //Atributos de la clase abstracta vehiculo
-    private String placa, modelo, marca, color, numeroChasis;
+    String placa;
+    private String modelo;
+    private String marca;
+    private String color;
+    private String numeroChasis;
+
+    //constructor vacio
+    public Vehiculo(){}
 
     //constructor
     public Vehiculo (String placa, String modelo, String marca, String color, String numeroChasis ){
@@ -53,8 +60,4 @@ public abstract class Vehiculo {
     public void setNumeroChasis(String numeroChasis) {
         this.numeroChasis = numeroChasis;
     }
-
-    //metodo abstracto para mostrar la informacion de un vehiculo
-    public abstract void mostrarDetalles();
-
 }

@@ -31,16 +31,9 @@ public class VehiculoCarga extends Vehiculo {
         this.numeroEjes = numeroEjes;
     }
 
-    //metodo abstracto, heredado de Vehiculo
-    @Override
-    public void mostrarDetalles() {
-        System.out.println("Vehiculo de carga");
-    }
-
     //metodo para un representación más significativa del obejto, en forma de cadena
     @Override
     public String toString() {
         return "VehiculoCarga [capacidadCarga=" + capacidadCarga + ", numeroEjes=" + numeroEjes + "]";
     }
-
 }
