@@ -5,6 +5,7 @@ import java.util.Scanner;
 /**
  * Ejercicios de Repaso
  * autor: Hector Daniel Gonzalez Sanchez
+ *  IntelliJ
  *
  */
 public class Main {
