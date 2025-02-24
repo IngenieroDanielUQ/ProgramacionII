@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db4816d5-1577-4677-9aa4-3cb332c22d10" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/poo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/poo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/edu/uniquindio/poo/EmpresaTransporte.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/edu/uniquindio/poo/EmpresaTransporte.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/edu/uniquindio/poo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/edu/uniquindio/poo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/edu/uniquindio/poo/Propietario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/edu/uniquindio/poo/Propietario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/edu/uniquindio/poo/Vehiculo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/edu/uniquindio/poo/Vehiculo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/edu/uniquindio/poo/VehiculoCarga.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/edu/uniquindio/poo/VehiculoCarga.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/co/edu/uniquindio/poo/VehiculoTransporte.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/co/edu/uniquindio/poo/VehiculoTransporte.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tSq35LJaMLFuZmtaMW0dRju68j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "git-widget-placeholder": "Ejercicios-y-proyectos",
+    "go.import.settings.migrated": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Daniel/OneDrive/Documentos/GitHub/Programacion II - Jhon/ProgramacionII/co.edu.uniquindio.creacion",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db4816d5-1577-4677-9aa4-3cb332c22d10" name="Changes" comment="" />
+      <created>1740355621299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740355621299</updated>
+      <workItem from="1740355622639" duration="60000" />
+      <workItem from="1740355833410" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
